@@ -1,0 +1,81 @@
+.resetButton{
+    position: absolute;
+    left: 596px;
+    top: 26px;
+    border: none;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    
+    color: #0052EA;
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 4px;
+}
+
+.newAllowanceButton{
+    position: absolute;
+    left: 40px;
+    top: 370px;
+
+    border: none;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    
+    color: #0052EA;
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 4px;
+}
+
+.newDeductionButton{
+    position: absolute;
+    left: 40px;
+    top: 554px;
+    border: none;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    
+    color: #0052EA;
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 4px;
+}
+
+.clearButton1{
+    position: absolute;
+    top: 248px;
+    left: 441px;
+    border: none;
+}
+
+.clearButton2{
+    position: absolute;
+    top: 312px;
+    left: 441px;
+    border: none;
+}
+
+.clearButton3{
+    position: absolute;
+    top: 506px;
+    left: 441px;
+    border: none;
+}

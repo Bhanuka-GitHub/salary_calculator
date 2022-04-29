@@ -1,0 +1,14 @@
+.displayBox{
+position: absolute;
+width: 480px;
+height: 614px;
+left: 830px;
+top: 132px;
+bottom: 132px;
+
+background: #FFFFFF;
+
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+border-radius: 8px;
+}

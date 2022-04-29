@@ -1,0 +1,84 @@
+.netSalaryBox{
+    position: absolute;
+    width: 456px;
+    height: 56px;
+    left: 12px;
+    top: 261px;
+    
+    border: 0.78437px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.resetIcon{
+    position: absolute;
+    right: 90px;
+    top: 27px;
+
+    height: 18px;
+    width: 21px;
+}
+
+.ellipse1{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 436px;
+    top: 238px;
+}
+
+.cross1{
+    width: 12px;
+    height: 12px;
+}
+
+.ellipse2{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 436px;
+    top: 302px;
+}
+
+.cross2{
+    width: 12px;
+    height: 12px;
+}
+
+.ellipse3{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 436px;
+    top: 496px;
+}
+
+.cross3{
+    width: 12px;
+    height: 12px;
+}
+
+.checkbox1{
+    position: absolute;
+    left: 487px;
+    top: 255px;
+    
+    background: #FFFFFF;
+    
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.checkbox2{
+    position: absolute;
+    left: 487px;
+    top: 319px;
+
+    
+    background: #FFFFFF;
+    
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}

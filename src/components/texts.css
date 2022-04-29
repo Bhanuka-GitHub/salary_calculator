@@ -1,0 +1,480 @@
+.topicText{
+    position: absolute;
+    width: 209px;
+    height: 32px;
+    left: 40px;
+    top: 24px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+
+    letter-spacing: -0.022px;
+
+    color: #000000;
+}
+
+.basicSalaryText{
+    position: absolute;
+    width: 860px;
+    height: 24px;
+    left: 40px;
+    top: 80px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+
+    letter-spacing: -0.1px;
+
+    color: #000000;
+}
+
+.earningsText{
+    position: absolute;
+    width: 860px;
+    height: 24px;
+    left: 40px;
+    top: 184px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    
+    letter-spacing: -0.1px;
+    
+    color: #000000;
+}
+
+.allowanceText{
+    position: absolute;
+    width: 248px;
+    height: 20px;
+    left: 40px;
+    top: 212px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    
+    text-align: left;
+    
+    color: #757575;
+}
+
+.epfEtfText1{
+    position: absolute;
+    width: 65px;
+    height: 24px;
+    left: 516px;
+    top: 252px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.epfEtfText2{
+    position: absolute;
+    width: 65px;
+    height: 24px;
+    left: 516px;
+    top: 316px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.deductionsText{
+    position: absolute;
+    width: 860px;
+    height: 24px;
+    left: 40px;
+    top: 432px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    
+    letter-spacing: -0.1px;
+    
+    color: #000000;
+}
+
+.salaryAdvancesText{
+    position: absolute;
+    width: 238px;
+    height: 20px;
+    left: 40px;
+    top: 460px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    
+    color: #757575;
+}
+
+/*Display Box*/
+
+.displayTopicText{
+    position: absolute;
+    width: 110px;
+    height: 32px;
+    left: 32px;
+    top: 24px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    
+    letter-spacing: -0.022px;
+    
+    color: #000000;
+}
+
+.itemsText{
+    position: absolute;
+    width: 39px;
+    height: 20px;
+    left: 32px;
+    top: 81px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    
+    letter-spacing: 0.2px;
+    
+    color: #757575;
+}
+
+.amountText{
+    position: absolute;
+    width: 55px;
+    height: 20px;
+    left: 393px;
+    top: 81px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    
+    letter-spacing: 0.2px;
+    
+    color: #757575;
+}
+
+.displayBasicSalaryText{
+    position: absolute;
+    width: 93px;
+    height: 24px;
+    left: 32px;
+    top: 117px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.salaryAmountText{
+    position: absolute;
+    width: 85px;
+    height: 24px;
+    right: 32px;
+    top: 117px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    text-align: right;
+    
+    color: #000000;
+}
+
+.grossEarningText{
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    left: 32px;
+    top: 149px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.earningAmountText{
+    position: absolute;
+    width: 78px;
+    height: 24px;
+    right: 32px;
+    top: 149px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    text-align: right;
+}
+
+.grossDeductionText{
+    position: absolute;
+    width: 126px;
+    height: 24px;
+    left: 32px;
+    top: 181px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.deductionAmountText{
+    position: absolute;
+    width: 67px;
+    height: 24px;
+    right: 32px;
+    top: 181px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    
+    color: #000000;
+}
+
+.epf8Text{
+    position: absolute;
+    width: 147px;
+    height: 24px;
+    left: 32px;
+    top: 213px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.epf8AmountText{
+    position: absolute;
+    width: 68px;
+    height: 24px;
+    right: 32px;
+    top: 213px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    
+    color: #000000;
+}
+
+.netSalaryText{
+    position: absolute;
+    width: 181px;
+    height: 24px;
+    left: 20px;
+    top: 16px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    
+    letter-spacing: -0.1px;
+    
+    color: #000000;
+}
+
+.netSalaryAmounyText{
+    position: absolute;
+    width: 86px;
+    height: 24px;
+    right: 20px;
+    top: 16px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    
+    text-align: right;
+    letter-spacing: -0.1px;
+    
+    color: #000000;
+}
+
+.contributionText{
+    position: absolute;
+    width: 219px;
+    height: 20px;
+    left: 32px;
+    top: 342px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    
+    letter-spacing: 0.2px;
+    
+    color: #757575;
+}
+
+.epf12Text{
+    position: absolute;
+    width: 160px;
+    height: 24px;
+    left: 32px;
+    top: 373px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    
+    color: #000000;
+}
+
+.epf12AmountText{
+    position: absolute;
+    width: 76px;
+    height: 24px;
+    right: 31px;
+    top: 373px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    
+    color: #000000;
+}
+
+.etf3Text{
+    position: absolute;
+    width: 153px;
+    height: 24px;
+    left: 32px;
+    top: 405px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.etf3AmountText{
+    position: absolute;
+    width: 68px;
+    height: 24px;
+    right: 32px;
+    top: 405px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    
+    color: #000000;
+}
+
+.ctcText{
+    position: absolute;
+    width: 181px;
+    height: 24px;
+    left: 32px;
+    top: 461px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.ctcAmountText{
+    position: absolute;
+    width: 82px;
+    height: 24px;
+    right: 32px;
+    top: 461px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    
+    color: #000000;
+}

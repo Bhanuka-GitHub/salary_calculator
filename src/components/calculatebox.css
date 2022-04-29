@@ -1,0 +1,14 @@
+.calculateBox{
+position: absolute;
+width: 680px;
+height: 614px;
+left: 130px;
+top: 132px;
+bottom: 132px;
+
+background: #FAFAFA;
+
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+border-radius: 8px;
+}

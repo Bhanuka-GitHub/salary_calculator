@@ -1,0 +1,59 @@
+.salaryInput{
+    position: absolute;
+    left: 40px;
+    top: 112px;
+
+    width: 380px;
+    height: 48px;
+    
+    background: #FFFFFF;
+    
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.allowanceInput1{
+    position: absolute;
+    top: 240px;
+    left: 40px;
+    
+    width: 380px;
+    height: 48px;
+    
+    background: #FFFFFF;
+    
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.allowanceInput2{
+    position: absolute;
+    top: 304px;
+    left: 40px;
+    
+    width: 380px;
+    height: 48px;
+    
+    background: #FFFFFF;
+    
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.deductionInput{
+    position: absolute;
+    top: 488px;
+    left: 40px;
+    
+    width: 380px;
+    height: 48px;
+    
+    background: #FFFFFF;
+    
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
